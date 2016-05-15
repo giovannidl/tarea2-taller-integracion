@@ -3,7 +3,55 @@
     "coverage": {
       "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/controllers/home_controller.rb": [
         1,
+        null,
         1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        0,
+        null,
+        null,
+        2,
+        null,
+        null,
+        null,
+        1,
+        1,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        0,
         null,
         null
       ],
@@ -11,7 +59,7 @@
         1,
         null,
         null,
-        1,
+        null,
         null
       ],
       "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/helpers/application_helper.rb": [
@@ -23,6 +71,6 @@
         null
       ]
     },
-    "timestamp": 1463306080
+    "timestamp": 1463349095
   }
 }

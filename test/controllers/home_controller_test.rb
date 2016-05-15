@@ -6,4 +6,14 @@ class HomeControllerTest < ActionController::TestCase
     assert_response :success
   end
 
+  test "should not get search_tag" do
+    get :search_tag
+    assert_response :bad_request
+  end
+
+  test "should post search_tag bad_request" do
+    post :search_tag
+    assert_response :bad_request
+  end
+
 end

@@ -1,0 +1,28 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/gio/Git_proyectos/univ/ta_inte/tarea2/app/helpers/home_helper.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1463306080
+  }
+}

@@ -1,3 +1,8 @@
 language: ruby
 rvm:
-  - 2.1.2
+- 2.1.2
+deploy:
+  provider: heroku
+  api_key:
+    secure: UMj9cfkrWYDTYBWjLzc+xox1Oq/2BAsYNvn5j0OKZw6l4CQ9RPZzD0lcPCtOSJIqQYQ+mR3f85CULhutTluXwtzWAqfpzVptqTMsMRq6NkmAtmDaKwSWi7znp4PhFuqcu287DtwbaG75W6CnEwBHe/PRiaWvmRUYiaRkUSXF0eJ4ja3h1//wzujgZPsHoZf1mqa7GEhn3nk+CUTnb+xgoU9EMYMI04sVcqGKWjUaYIB3B7UPOKbe5lOaxSt4IZnKdiZmCs4UkfXV4bzCnbkJL451Sxd2Ovg37m2Y7EPEyRCraeQMKRtGJh63BRnkSgfftSBVYPllHTbISq5wODjmRT76DeFsDYQRoyLkr4KpL7R1uYVzxoCQnkidM8t0GzxCLDKmRYvw0/JI0JYvYadg+4k+KgPTidE5HWfBZrZ2ZcoEbutG3r5eFSP6zbOuEG120jqJ++I/HHBoquiv2WWiraG/nGgPATdyM3KRcmh8ygsKJ6wRcogIsP9HW1AV4/KlfydJFUr34T5WRoEKMZN3TDOHoXF45XVlRh9Iq1sR3vb3/p77ZWJ7QrsrRR+yencM+KR9RLk6GkVteVxJZvKTGuT0dClIdc2WTDsaGrLslepOT7Q6ErVo3/ckeLqK7TzsdNi78E/Y4XCvp9oyeOhkLkMOwKPXJrowKQMhdP9cjr0=
+  app: gcdelucc-tarea2-taller
